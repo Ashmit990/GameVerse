@@ -46,19 +46,19 @@ const About = () => {
 
 
 
-             <div className="w-full h-[560px] px-14 mt-20 relative bg-[#070F2B]">
+             <div className="w-full h-[560px] px-14 mt-20 relative bg-[#070F2B] ">
         <img
           className=" w-[80%] h-full object-cover rounded-xl opacity-30"
           src={about4}
           alt="What We Offer Background"
         />
 
-        <div className="absolute top-0 right-[50px] h-full w-[29rem] bg-gradient-to-l from-[#070F2B] via-[#070F2B] via-70% to-transparent pointer-events-none z-10" />
+        <div className="absolute top-0 right-[50px] h-full w-[29rem] bg-gradient-to-l from-[#070F2B] via-[#070F2B] via-70% to-transparent pointer-events-none z-10 " />
 
         <div className="absolute w-[44%] h-[300px] top-[140px] right-[100px] flex flex-col  text-white z-20">
 
-          <p className='font-bold text-white text-[33px] ml-[380px]'>Exclusive Deals</p>
-          <div className='bg-[#66E0FF] w-[295px] h-[3px] mt-[3px] ml-[320px] rounded-lg'></div>
+          <p className='font-bold text-white text-[33px] ml-[316px]'>Exclusive Deals</p>
+          <div className='bg-[#66E0FF] w-[295px] h-[3px] mt-[3px] ml-[255px] rounded-lg'></div>
           <p className='mt-[8px] text-[19px] text-[#848383] text-right'>Unlock offers you won’t find anywhere else. We partner directly with publishers to bring you incredible discounts, limited-time bundles, and exclusive pre-order bonuses. With deals dropping regularly, you’ll always have a reason to check back and grab your next favorite game at the best price</p>
 
         </div>
@@ -85,25 +85,25 @@ const About = () => {
 
 
       <section className='mt-24 w-full h-[170px] px-14 flex justify-between items-center'>
-        <div className="w-[285px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
+        <div className="w-[255px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
           <p className='text-[#66E0FF] font-bold text-[50px]'>10,000+</p>
           <p className='text-[#848383]  text-[20px]'>Game Library</p>
         </div>
 
-                <div className="w-[285px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
+                <div className="w-[255px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
           <p className='text-[#66E0FF] font-bold text-[50px]'>200K+</p>
           <p className='text-[#848383]  text-[20px]'>Satisfied Gamers</p>
         </div>
 
 
-                <div className="w-[285px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
+                <div className="w-[255px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
           <p className='text-[#66E0FF] font-bold text-[50px]'>500K+</p>
           <p className='text-[#848383]  text-[20px]'>Purchase</p>
         </div>
 
 
 
-                <div className="w-[285px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
+                <div className="w-[255px] h-full rounded-xl bg-gradient-to-t from-[#070f2b00] to-[#3f465f] py-6 flex flex-col items-center">
           <p className='text-[#66E0FF] font-bold text-[50px]'>100M+</p>
           <p className='text-[#848383]  text-[20px]'>Downloads</p>
         </div>

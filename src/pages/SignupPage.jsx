@@ -9,7 +9,7 @@ const SignupPage = () => {
   return (
     <>
     <section className='flex h-full justify-between pl-[140px]'>
-       <div className='h-[738px] w-[500px] flex flex-col items-center pt-[50px] mt-[50px] '>
+       <div className='h-[600px] w-[500px] flex flex-col items-center pt-[50px] mt-[10px] ml-[-50px] '>
         <span className='font-bold text-white text-[40px]'>Create an account</span>
         <div className='w-full h-[400px] mt-[40px] text-white'>
             <input className='bg-[#535C91] w-full border-none outline-none text-[18px] rounded-lg h-[65px] pl-5' type="text" placeholder='Full Name' />
@@ -21,7 +21,7 @@ const SignupPage = () => {
            
         </div>
        </div>
-       <img className='w-[630px] h-[738px]' src={login} alt="" />
+       <img className='w-[600px] h-[630px]' src={login} alt="" />
     </section>
     </>
   )
