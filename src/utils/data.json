@@ -1,0 +1,60 @@
+{
+  "games": [
+    {
+      "id": 101,
+      "title": "Black Myth: Wukong",
+      "price": 59.99,
+      "currency": "USD",
+      "coverImage": "https://link-to-main-image.jpg",
+      "trailerVideo": "https://link-to-trailer.mp4",
+      "gallery": [
+        "https://link-to-image1.jpg",
+        "https://link-to-image2.jpg",
+        "https://link-to-image3.jpg"
+      ],
+      "shortDescription": "An action RPG rooted in Chinese mythology.",
+      "about": "The story is based on Journey to the West, one of the Four Great Classical Novels of Chinese literature. You set out as the Destined One to uncover the truth beneath the veil of legends.",
+      "ageRating": "16+",
+      "contentWarnings": ["Nudity", "Strong Violence", "Use of tobacco and drugs"],
+      "players": "Single-Player",
+      "genre": ["Action", "Adventure", "RPG"],
+      "features": ["Cloud Saves", "Controller Support"],
+      "developer": "Game Science",
+      "publisher": "Game Science",
+      "releaseDate": "2024-08-20",
+      "actions": {
+        "buyNow": true,
+        "addToCart": true,
+        "addToWishlist": true
+      }
+    },
+    {
+      "id": 102,
+      "title": "Elden Ring",
+      "price": 69.99,
+      "currency": "USD",
+      "coverImage": "https://link-to-main-image.jpg",
+      "trailerVideo": "https://link-to-trailer.mp4",
+      "gallery": [
+        "https://link-to-image1.jpg",
+        "https://link-to-image2.jpg",
+        "https://link-to-image3.jpg"
+      ],
+      "shortDescription": "A vast world full of peril and discovery awaits.",
+      "about": "Elden Ring is an action RPG developed by FromSoftware and published by Bandai Namco Entertainment. Players explore the Lands Between, guided by the blessing of grace.",
+      "ageRating": "18+",
+      "contentWarnings": ["Blood", "Strong Violence"],
+      "players": "Single-Player, Online Co-op",
+      "genre": ["Action", "Adventure", "RPG"],
+      "features": ["Online Multiplayer", "Cloud Saves", "Controller Support"],
+      "developer": "FromSoftware",
+      "publisher": "Bandai Namco",
+      "releaseDate": "2022-02-25",
+      "actions": {
+        "buyNow": true,
+        "addToCart": true,
+        "addToWishlist": true
+      }
+    }
+  ]
+}
